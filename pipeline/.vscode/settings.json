@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".php_cs.dist": "php",
+        "iomanip": "cpp",
+        "iostream": "cpp"
+    }
+}
